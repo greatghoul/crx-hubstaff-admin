@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Hubstaff Admin Panel",
+    "description": "Name of the application."
+  },
+  "appDesc": {
+    "message": "Quick Access to hubstaff admin views",
+    "description": "Description of the application."
+  },
+  "appTooltip": {
+  	"message": "Hubstaff Admin Panel",
+  	"description": "Title of the popup icon."
+  }
+}
